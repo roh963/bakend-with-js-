@@ -1,0 +1,20 @@
+{
+  "name": "bakend",
+  "version": "1.0.0",
+  "description": "a bakend of youtube",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascipt",
+    "bakend",
+    "chai"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "mongoose": "^8.7.1"
+  }
+}
